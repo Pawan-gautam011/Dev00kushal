@@ -4,18 +4,18 @@
 
 <h1 align="center"></h1>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 LANGUAGE AND TOOLS :</h3>
 
 
  [![My Skills](https://skills.thijs.gg/icons?i=c,dart,javascript,python,java,bootstrap,html,css,git&theme=dark)](https://skills.thijs.gg)
 
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   MY STATS :</h3>
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Dev00kushal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<h3 align="left">📫  How to reach me:</h3>
+<h3 align="left">📫 SOCIAL MEDIA :</h3>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/kushal-chaulagain-23336226a/">  
